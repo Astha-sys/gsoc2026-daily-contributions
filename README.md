@@ -6,11 +6,11 @@ This repository documents my **daily contributions** — from code commits to le
 ---
 
 ##  Goals
-- . Make at least **1 meaningful GitHub contribution daily**  
-- . Contribute to **AI/ML open-source projects**  
-- . Strengthen skills in **Python, Flask, and Machine Learning**  
-- . Learn real **open-source collaboration** workflows  
-- . Build a strong, consistent GitHub presence for **GSoC 2026**
+-  Make at least **1 meaningful GitHub contribution daily**  
+-  Contribute to **AI/ML open-source projects**  
+-  Strengthen skills in **Python, Flask, and Machine Learning**  
+-  Learn real **open-source collaboration** workflows  
+-  Build a strong, consistent GitHub presence for **GSoC 2026**
 
 ---
 
