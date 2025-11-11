@@ -16,9 +16,10 @@ This repository documents my **daily contributions** — from code commits to le
 
 ## Contribution Tracker
 
-| Day | Date | Activity | Repo/Topic |
-|-----|------|-----------|-------------|
-| 1 | Nov 10 2025 | Initialized my GSoC 2026 Daily Contribution Repo | 
----
+| Day | Date        | Activity                                         | Repo/Topic                     |
+| --- | ----------- | ------------------------------------------------ | ------------------------------ |
+| 1   | Nov 10 2025 | Initialized my GSoC 2026 Daily Contribution Repo | `gsoc2026-daily-contributions` |
+| 2   | Nov 11 2025 | Learned Git & GitHub basics and added notes      | `gsoc2026-daily-contributions` |
+
 
  "Consistency creates credibility — every commit counts!"
