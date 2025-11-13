@@ -1,4 +1,4 @@
-# Day 2 — Learning Git & GitHub Basics
+# Learning Git & GitHub Basics
 
 # What I Learned Today
 - The difference between **Git** (version control system) and **GitHub** (a platform for hosting code).  
