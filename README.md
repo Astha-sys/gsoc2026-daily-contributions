@@ -1,6 +1,6 @@
-# ------------------------------------------------------------
+
 #   ASTHA'S GSoC 2026 DAILY CONTRIBUTION JOURNEY
-# ------------------------------------------------------------
+
 
 ## Table of Contents
 1. [About This Repository](#about-this-repository)
